@@ -33,7 +33,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 *  [《分布式事务型关系数据库 AntDB》](http://blog.csdn.net/huguangshanse00/article/details/78805075) by analyzee
 *  [《pg_buffercache插件应用于AntDB》](http://blog.csdn.net/u011098015/article/details/78930603) by AntDB-billyzhu
 
-#### 20170-11:
+#### 2017-11:
 
 * [《repmgr监控的master连续down，repmgrd第二次不自动切换原因分析》](https://mp.weixin.qq.com/s?__biz=MzAxNTczNTM5Mw==&mid=2247483788&idx=1&sn=3af4ddae806138695b489ace17c493b7&chksm=9bfece82ac89479481d02bcea065f294e4184093bac593b9fda93dcb187ce7fd311295b300b2&scene=38#wechat_redirect)
 

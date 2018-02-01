@@ -33,5 +33,21 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 *  [《分布式事务型关系数据库 AntDB》](http://blog.csdn.net/huguangshanse00/article/details/78805075) by analyzee
 *  [《pg_buffercache插件应用于AntDB》](http://blog.csdn.net/u011098015/article/details/78930603) by AntDB-billyzhu
 
+#### 20170-11:
+
+* [《repmgr监控的master连续down，repmgrd第二次不自动切换原因分析》](https://mp.weixin.qq.com/s?__biz=MzAxNTczNTM5Mw==&mid=2247483788&idx=1&sn=3af4ddae806138695b489ace17c493b7&chksm=9bfece82ac89479481d02bcea065f294e4184093bac593b9fda93dcb187ce7fd311295b300b2&scene=38#wechat_redirect)
+
+#### 2017-10：
+
+* [《PGConf2017大事记——亚信AntDB(ADB)开源》](https://mp.weixin.qq.com/s?__biz=MzAxNTczNTM5Mw==&mid=2247483774&idx=1&sn=383f3cbb3954fccfcb23b1e5d637d9f4&chksm=9bfece70ac894766278ed551f85c20edf843ad58f5db6f15b30dc8fb145dedba31da6798d76f&scene=38#wechat_redirect)
+* [《ADB平滑扩容技术方案》](https://mp.weixin.qq.com/s?__biz=MzAxNTczNTM5Mw==&mid=2247483759&idx=1&sn=54254bd107beff8886c3397ad6ba174c&chksm=9bfece61ac89477730ef92f1f510e7afdea3cee9a2b79548dc4d8bde452f62d8910d53d2e117&scene=38#wechat_redirect)
+
+#### 2017-09:
+
+* [《ADB团队之“宝贝成长”计划 ——亚信分布式数据库产品创新团队专访》](https://mp.weixin.qq.com/s?__biz=MzAxNTczNTM5Mw==&mid=2247483733&idx=1&sn=00dc04d28c473524721079e00cab0dc9&chksm=9bfece5bac89474d893eecaa1cd6a5fc9bd7b040d14eb11da8ea1cf7e27a7422ca4e3320b755&scene=38#wechat_redirect)
+
+#### 2016-08:
+
+* [《数据库新锐中的翘楚——亚信分布式数据库[ADB]》](https://mp.weixin.qq.com/s?__biz=MzAxNTczNTM5Mw==&mid=2247483688&idx=1&sn=67f9e23be517795497517d464ec1064d&scene=38#wechat_redirect)
 
 

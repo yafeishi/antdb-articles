@@ -15,6 +15,9 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 ### 文章：
 
 #### 2018-02:
+
+* [《python 连接AntDB进行数据库操作》](https://yafeishi.com/archives/pythonconnectantdb.html) by yafeishi
+
 #### 2018-01:
 
 * [《AntDB 在自建环境上执行regress流程》](http://blog.csdn.net/mona002/article/details/78982711) by 33AntDB

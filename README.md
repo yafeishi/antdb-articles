@@ -16,6 +16,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-02:
 
+* [《AntDB 性能测试篇（一）：Jmeter工具》](http://blog.csdn.net/u011098015/article/details/79280582) by AntDB-billyzhu
 * [《python 连接AntDB进行数据库操作》](https://yafeishi.com/archives/pythonconnectantdb.html) by yafeishi
 * [《AntDB 重分布性能测试记录二》](https://my.oschina.net/zaclu/blog/1616923) by Zaclu
 

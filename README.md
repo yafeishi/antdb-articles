@@ -16,10 +16,14 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-03:
 
-* 
+* [《AntDB3.1新增几个性能参数的使用和效果》](https://my.oschina.net/u/3771732/blog/1627271) by 33AntDB
 
 #### 2018-02:
 
+* [《ADBMGR设置节点GUC参数》](http://blog.csdn.net/huguangshanse00/article/details/79402925) by analyzee
+* [《ADBMGR命令执行流程》](http://blog.csdn.net/huguangshanse00/article/details/79402809) by analyzee
+* [《 ADBMGR设置节点GUC参数介绍》](http://blog.csdn.net/huguangshanse00/article/details/79400952) by analyzee
+* [《ADBMGR 命令处理过程介绍》](http://blog.csdn.net/huguangshanse00/article/details/79400817) by analyzee
 * [《AntDB 性能测试篇（一）：Jmeter工具》](http://blog.csdn.net/u011098015/article/details/79280582) by AntDB-billyzhu
 * [《python 连接AntDB进行数据库操作》](https://yafeishi.com/archives/pythonconnectantdb.html) by yafeishi
 * [《AntDB 重分布性能测试记录二》](https://my.oschina.net/zaclu/blog/1616923) by Zaclu

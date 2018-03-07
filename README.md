@@ -16,6 +16,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-03:
 
+* [《利用 default expression 实现字段值的自动更新》](https://my.oschina.net/zaclu/blog/1630402) by Zaclu
 * [《从Oracle迁移到AntDB(二)-- ora2pg-对象和数据的导出导入》](https://yafeishi.com/archives/ora2pg-export-import.html) by yafeishi
 * [《从Oracle迁移到AntDB(一)-- ora2pg-install》](https://yafeishi.com/archives/ora2pgisntall.html) by yafeishi
 * [《AntDB3.1新增几个性能参数的使用和效果》](https://my.oschina.net/u/3771732/blog/1627271) by 33AntDB

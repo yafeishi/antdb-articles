@@ -16,6 +16,9 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-03:
 
+* [《AntDB和Postgresql-Xl使用经验对比》](http://blog.huoban.com/2018/03/14/antdb%E5%92%8Cpostgresql-xl%E4%BD%BF%E7%94%A8%E7%BB%8F%E9%AA%8C%E5%AF%B9%E6%AF%94/) by 伙伴云研发团队
+* [《Antdb安装部署》](http://blog.huoban.com/2018/03/14/antdb%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/) by 伙伴云研发团队
+* [《我们和PostgresXL、AntDB的恩怨情仇》](http://blog.huoban.com/2018/03/12/%E6%88%91%E4%BB%AC%E5%92%8Cpostgresxl%E3%80%81antdb%E7%9A%84%E6%81%A9%E6%80%A8%E6%83%85%E4%BB%87/) by 伙伴云研发团队
 * [《利用 default expression 实现字段值的自动更新》](https://my.oschina.net/zaclu/blog/1630402) by Zaclu
 * [《从Oracle迁移到AntDB(二)-- ora2pg-对象和数据的导出导入》](https://yafeishi.com/archives/ora2pg-export-import.html) by yafeishi
 * [《从Oracle迁移到AntDB(一)-- ora2pg-install》](https://yafeishi.com/archives/ora2pgisntall.html) by yafeishi

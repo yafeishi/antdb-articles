@@ -10,7 +10,7 @@ Zaclu: [https://my.oschina.net/zaclu/home](https://my.oschina.net/zaclu/home)
 analyzee: [http://blog.csdn.net/huguangshanse00](http://blog.csdn.net/huguangshanse00)    
 yafeishi: [http://yafeishi.com/](http://yafeishi.com/) /  [https://my.oschina.net/yafeishi/home](https://my.oschina.net/yafeishi/home)    
 AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u011098015)    
-想深入了解或者加微信群讨论，可加我微信(备注：adb)：    
+想深入了解或者加微信群讨论，可加我微信 iyafeishi (备注：adb)：    
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fppysd6i4jj308s088q4a.jpg)
 
 -------

@@ -18,6 +18,8 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-03:
 
+* [《AntDB中bloom索引试用》](https://my.oschina.net/u/3771732/blog/1785000) by 33AntDB
+* [《PostgreSQL中的依赖类型》](https://my.oschina.net/zaclu/blog/1785748) by Zaclu
 * [《AntDB中max_replication_slots参数使用详解》](https://blog.csdn.net/mona002/article/details/79610670)  by  33AntDB
 * [《AntDB和Postgresql-Xl使用经验对比》](http://blog.huoban.com/2018/03/14/antdb%E5%92%8Cpostgresql-xl%E4%BD%BF%E7%94%A8%E7%BB%8F%E9%AA%8C%E5%AF%B9%E6%AF%94/) by 伙伴云研发团队
 * [《Antdb安装部署》](http://blog.huoban.com/2018/03/14/antdb%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/) by 伙伴云研发团队

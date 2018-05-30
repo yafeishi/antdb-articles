@@ -18,6 +18,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-05:
 
+* [《上海移动CRM历史库去”O”经验分享》](http://postgres.cn/news/viewone/1/339) by http://postgres.cn/
 * [《Alter命令导致pg_class元数据紊乱问题定位》](https://blog.csdn.net/constzl/article/details/80277597) by Zaclu
 
 #### 2018-04:

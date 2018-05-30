@@ -5,9 +5,9 @@
 ### 作者：
 > 排名不分先后    
 
-Zaclu: [https://my.oschina.net/zaclu/home](https://my.oschina.net/zaclu/home)     
+Zaclu: [https://my.oschina.net/zaclu/home](https://my.oschina.net/zaclu/home) [https://blog.csdn.net/constzl](https://blog.csdn.net/constzl)    
 33AntDB: [http://blog.csdn.net/mona002](http://blog.csdn.net/mona002)  / [https://my.oschina.net/u/3771732/home](https://my.oschina.net/u/3771732/home)  
-analyzee: [http://blog.csdn.net/huguangshanse00](http://blog.csdn.net/huguangshanse00)    
+analyzee: [http://blog.csdn.net/huguangshanse00](http://blog.csdn.net/huguangshanse00)   
 yafeishi: [http://yafeishi.com/](http://yafeishi.com/) /  [https://my.oschina.net/yafeishi/home](https://my.oschina.net/yafeishi/home)    
 AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u011098015)    
 想深入了解或者加微信群讨论，可加我微信 iyafeishi (备注：adb)：    
@@ -15,6 +15,15 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 -------
 ### 文章：
+
+#### 2018-05:
+
+* [《Alter命令导致pg_class元数据紊乱问题定位》](https://blog.csdn.net/constzl/article/details/80277597) by Zaclu
+
+#### 2018-04:
+
+* [《分布式集群下数据可见性问题分析记录》](https://blog.csdn.net/constzl/article/details/79943196) by Zaclu
+* [《AntDB读写分离探索》](https://blog.csdn.net/u011098015/article/details/79803986) by billyzhu
 
 #### 2018-03:
 

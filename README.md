@@ -16,6 +16,12 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 -------
 ### 文章：
 
+#### 2018-06:
+
+- [《AntDB属性丢失问题分析》](https://blog.csdn.net/u011098015/article/details/80705883)   by billyzhu
+- [《AntDB 使用hugepage场景》](https://blog.csdn.net/u011098015/article/details/80678557)  by billyzhu
+- [《pg9.6单纯写性能探索》](https://blog.csdn.net/u011098015/article/details/79761111)  by billyzhu
+
 #### 2018-05:
 
 * [《上海移动CRM历史库去”O”经验分享》](http://postgres.cn/news/viewone/1/339) by http://postgres.cn/

@@ -3,6 +3,7 @@
 
 -------
 ### 作者：
+
 > 排名不分先后    
 
 Zaclu: [https://my.oschina.net/zaclu/home](https://my.oschina.net/zaclu/home) [https://blog.csdn.net/constzl](https://blog.csdn.net/constzl)    
@@ -17,6 +18,10 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 ### 文章：
 
 #### 2018-06:
+
+- [《论PostgreSQL中的各种“xid”》](https://blog.csdn.net/constzl/article/details/80820688)
+
+- [《AGTM对antdb性能测试场景（一）》](https://blog.csdn.net/u011098015/article/details/80855914)   by billyzhu
 
 - [《AntDB属性丢失问题分析》](https://blog.csdn.net/u011098015/article/details/80705883)   by billyzhu
 - [《AntDB 使用hugepage场景》](https://blog.csdn.net/u011098015/article/details/80678557)  by billyzhu

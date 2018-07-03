@@ -19,7 +19,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-06:
 
-- [《论PostgreSQL中的各种“xid”》](https://blog.csdn.net/constzl/article/details/80820688)
+- [《论PostgreSQL中的各种“xid”》](https://blog.csdn.net/constzl/article/details/80820688)  by Zaclu
 
 - [《AGTM对antdb性能测试场景（一）》](https://blog.csdn.net/u011098015/article/details/80855914)   by billyzhu
 

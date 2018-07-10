@@ -24,9 +24,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 #### 2018-06:
 
 - [《论PostgreSQL中的各种“xid”》](https://blog.csdn.net/constzl/article/details/80820688)  by Zaclu
-
 - [《AGTM对antdb性能测试场景（一）》](https://blog.csdn.net/u011098015/article/details/80855914)   by billyzhu
-
 - [《AntDB属性丢失问题分析》](https://blog.csdn.net/u011098015/article/details/80705883)   by billyzhu
 - [《AntDB 使用hugepage场景》](https://blog.csdn.net/u011098015/article/details/80678557)  by billyzhu
 - [《pg9.6单纯写性能探索》](https://blog.csdn.net/u011098015/article/details/79761111)  by billyzhu

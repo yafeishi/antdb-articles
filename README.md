@@ -6,10 +6,10 @@
 
 > 排名不分先后    
 
-Zaclu: [https://my.oschina.net/zaclu/home](https://my.oschina.net/zaclu/home) [https://blog.csdn.net/constzl](https://blog.csdn.net/constzl)    
-33AntDB: [http://blog.csdn.net/mona002](http://blog.csdn.net/mona002)  / [https://my.oschina.net/u/3771732/home](https://my.oschina.net/u/3771732/home)  
+Zaclu: [https://my.oschina.net/zaclu](https://my.oschina.net/zaclu) [https://blog.csdn.net/constzl](https://blog.csdn.net/constzl)    
+33AntDB: [http://blog.csdn.net/mona002](http://blog.csdn.net/mona002)  / [https://my.oschina.net/u/3771732](https://my.oschina.net/u/3771732)  
 analyzee: [http://blog.csdn.net/huguangshanse00](http://blog.csdn.net/huguangshanse00)   
-yafeishi: [http://yafeishi.com/](http://yafeishi.com/) /  [https://my.oschina.net/yafeishi/home](https://my.oschina.net/yafeishi/home)    
+yafeishi: [https://blog.csdn.net/yafeishi_cs](https://blog.csdn.net/yafeishi_cs) /  [https://my.oschina.net/yafeishi/home](https://my.oschina.net/yafeishi/home)    
 AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u011098015)    
 想深入了解或者加微信群讨论，可加我微信 iyafeishi (备注：adb)：    
 ![](https://ws4.sinaimg.cn/large/006tNc79ly1fppysd6i4jj308s088q4a.jpg)
@@ -19,6 +19,8 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 
 #### 2018-07:
 
+- [《AntDB上使用表空间》](https://blog.csdn.net/yafeishi_cs/article/details/81171097)  by  yafeishi
+- [《AntDB上使用uuid》](https://blog.csdn.net/yafeishi_cs/article/details/81080031)  by yafeishi
 - [《AGTM对antdb性能测试场景（二）》](https://blog.csdn.net/u011098015/article/details/80884357)  by Zaclu
 
 #### 2018-06:
@@ -26,6 +28,7 @@ AntDB-billyzhu: [http://blog.csdn.net/u011098015](http://blog.csdn.net/u01109801
 - [《论PostgreSQL中的各种“xid”》](https://blog.csdn.net/constzl/article/details/80820688)  by Zaclu
 - [《AGTM对antdb性能测试场景（一）》](https://blog.csdn.net/u011098015/article/details/80855914)   by billyzhu
 - [《AntDB属性丢失问题分析》](https://blog.csdn.net/u011098015/article/details/80705883)   by billyzhu
+- [《AntDB中tableoid等特殊字段使用注意事项》](https://my.oschina.net/u/3771732/blog/1829664)  by  33AntDB
 - [《AntDB 使用hugepage场景》](https://blog.csdn.net/u011098015/article/details/80678557)  by billyzhu
 - [《pg9.6单纯写性能探索》](https://blog.csdn.net/u011098015/article/details/79761111)  by billyzhu
 
